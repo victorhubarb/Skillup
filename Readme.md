@@ -8,7 +8,7 @@ Platform project for the sale of online programming courses, focused on deepenin
 
 ## Demo
 
-
+https://skillup-omega.vercel.app/
 
 ## Project Features
 
@@ -29,7 +29,7 @@ Platform project for the sale of online programming courses, focused on deepenin
 Clone the project
 
 ```bash
-  git clone https://github.com/victorhubarb/SkillUp
+  git clone https://github.com/victorhubarb/Skillup
 ```
 
 ## Future Implementations
